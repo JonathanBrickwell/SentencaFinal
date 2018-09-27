@@ -16,16 +16,7 @@
 --------------*/
 /* base */
 
-@media screen and (min-width:320px) and (max-width:480px)
-{
-  .mySpace{
-    display:none;
-  }
 
-  #logotip{
-    display:none;
-  }
-}
 
 
 
@@ -1234,33 +1225,6 @@ ul.socials li a:hover {
   border-left: none;
   border-top: none;
   height: auto; }
-
-@media screen and (min-width:320px) and (max-width:480px)
-{
-  .post{
-    height:auto !important;
-    padding-left:10px !important;
-    padding-right: 10px !important;
-  }
-}
-
-@media screen and (min-width:481px) and (max-width:780px)
-{
-  .post{
-    height:auto !important;
-    padding-left:10px !important;
-    padding-right: 10px !important;
-  }
-}
-
-@media screen and (min-width:781px) and (max-width:1080px)
-{
-  .post{
-    height:auto !important;
-    padding-left:10px !important;
-    padding-right: 10px !important;
-  }
-}
 
 .posts-right .post {
   border-left: none; }
