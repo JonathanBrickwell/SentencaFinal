@@ -1,4 +1,4 @@
-/*-----------------------------------
+/*
 [Table of Contents]
 1. Base
 2. Logo
@@ -13,7 +13,7 @@
 11. Form
 12. Case study
 
---------------*/
+*/
 /* base */
 
 
@@ -106,7 +106,7 @@ h2.white {
 
 hr {
   max-width: 100%;
-  border-bottom: 1px solid #00e1b6; }
+  border-bottom: 1px solid #39729B; }
 
 .button {
   text-transform: uppercase;
@@ -1080,6 +1080,10 @@ ul.socials li a:hover {
   height: 100%;
   background-position: center center;
   background-size: cover; }
+
+.circle-wrap .professional {
+  background-image: url(../img/profesionalni.png) !important;
+}
 
 .circle-wrap .work-1 {
   background-image: url(../img/flags/hrv.jpeg); }
